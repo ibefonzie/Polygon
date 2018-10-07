@@ -1,0 +1,1159 @@
+﻿Log file open, 10/07/18 16:18:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Polygon
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.264541
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.118s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.07-21.18.31:795][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.07-21.18.31:795][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.07-21.18.31:808][  0]LogHAL: Display: Platform has ~ 16 GB [17078439936 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.07-21.18.31:808][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.07-21.18.31:808][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.07-21.18.31:808][  0]LogInit: Computer: DESKTOP-N5R5R02
+[2018.10.07-21.18.31:808][  0]LogInit: User: Thomas
+[2018.10.07-21.18.31:808][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.07-21.18.31:808][  0]LogInit: High frequency timer resolution =3.515628 MHz
+[2018.10.07-21.18.31:808][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.07-21.18.31:808][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.07-21.18.31:808][  0]LogMemory: Process Physical Memory: 101.18 MB used, 101.18 MB peak
+[2018.10.07-21.18.31:808][  0]LogMemory: Process Virtual Memory: 86.36 MB used, 86.36 MB peak
+[2018.10.07-21.18.31:808][  0]LogMemory: Physical Memory: 9914.99 MB used,  6372.28 MB free, 16287.27 MB total
+[2018.10.07-21.18.31:809][  0]LogMemory: Virtual Memory: 4647.01 MB used,  6372.28 MB free, 134217728.00 MB total
+[2018.10.07-21.18.31:825][  0]LogInit: Using OS detected language (en-US).
+[2018.10.07-21.18.31:825][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.07-21.18.31:826][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.07-21.18.32:138][  0]LogStreaming: Display: Took  0.313s to InitEngineTextLocalization.
+[2018.10.07-21.18.32:139][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.07-21.18.32:173][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.07-21.18.32:173][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.07-21.18.32:422][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.10.07-21.18.32:422][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.07-21.18.32:474][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.07-21.18.32:474][  0]LogD3D11RHI:       8079/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.07-21.18.32:481][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.10.07-21.18.32:481][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.07-21.18.32:482][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.07-21.18.32:482][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.07-21.18.32:483][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.07-21.18.32:483][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.07-21.18.32:483][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.07-21.18.32:492][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.07-21.18.32:492][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.07-21.18.32:492][  0]LogWindows: EnumDisplayDevices:
+[2018.10.07-21.18.32:492][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.07-21.18.32:492][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.07-21.18.32:492][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.07-21.18.32:492][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.07-21.18.32:493][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.07-21.18.32:493][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.07-21.18.32:493][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.07-21.18.32:493][  0]LogWindows:    7. 'DisplayLink USB Device' (P:0 D:1)
+[2018.10.07-21.18.32:493][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.10.07-21.18.32:493][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.07-21.18.32:493][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2018.10.07-21.18.32:493][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2018.10.07-21.18.32:493][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.10.07-21.18.32:525][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.07-21.18.32:558][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.07-21.18.32:559][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../UnrealEngine Projects/Polygon/Intermediate/Shaders/WorkingDirectory/5612/).
+[2018.10.07-21.18.32:559][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Thomas/AppData/Local/Temp/UnrealShaderWorkingDir/965565E3456A7C06B737BB806C77FC47/'.
+[2018.10.07-21.18.32:775][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.07-21.18.32:787][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.07-21.18.32:798][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.07-21.18.32:810][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.07-21.18.32:821][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.07-21.18.32:831][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.07-21.18.32:842][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.07-21.18.32:851][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.07-21.18.32:856][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-21.18.32:917][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.07-21.18.32:970][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.07-21.18.32:970][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.07-21.18.32:989][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.07-21.18.32:989][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.07-21.18.32:998][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.07-21.18.33:008][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.07-21.18.33:018][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.07-21.18.33:028][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.07-21.18.33:035][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.07-21.18.33:035][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.07-21.18.33:077][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.07-21.18.33:077][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.07-21.18.33:077][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.07-21.18.33:633][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.07-21.18.33:676][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Thomas/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.07-21.18.33:676][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Thomas/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.07-21.18.33:676][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UnrealEngine Projects/Polygon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.07-21.18.33:676][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.07-21.18.33:676][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UnrealEngine Projects/Polygon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.07-21.18.33:676][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.07-21.18.33:688][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.07-21.18.33:700][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Thomas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.07-21.18.33:700][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.07-21.18.33:700][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.07-21.18.33:715][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.07-21.18.33:716][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.07-21.18.33:717][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.07-21.18.33:791][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2018.10.07-21.18.34:043][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.07-21.18.34:155][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.07-21.18.34:157][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.07-21.18.34:157][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.07-21.18.34:157][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.07-21.18.34:157][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.07-21.18.34:177][  0]LogNetVersion: Polygon 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2270146214)
+[2018.10.07-21.18.34:695][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.102665 seconds
+[2018.10.07-21.18.34:701][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.07-21.18.34:701][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.07-21.18.34:701][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.07-21.18.35:650][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.07-21.18.35:674][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.07-21.18.35:811][  0]SourceControl: Source control is disabled
+[2018.10.07-21.18.35:811][  0]SourceControl: Source control is disabled
+[2018.10.07-21.18.35:813][  0]SourceControl: Source control is disabled
+[2018.10.07-21.18.35:814][  0]SourceControl: Source control is disabled
+[2018.10.07-21.18.36:000][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.07-21.18.36:138][  0]LogOcInput: OculusInput pre-init called
+[2018.10.07-21.18.36:193][  0]LogEngine: Initializing Engine...
+[2018.10.07-21.18.36:215][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.10.07-21.18.36:216][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.07-21.18.36:216][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.07-21.18.36:216][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.07-21.18.36:216][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.07-21.18.36:421][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.07-21.18.36:430][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.07-21.18.36:500][  0]LogInit: XAudio2 using 'Speakers (3- Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.07-21.18.36:518][  0]LogInit: FAudioDevice initialized.
+[2018.10.07-21.18.36:519][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.07-21.18.36:591][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Thomas/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.07-21.18.36:594][  0]LogInit: Texture streaming: Enabled
+[2018.10.07-21.18.36:606][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.07-21.18.36:619][  0]LogInit: Transaction tracking system initialized
+[2018.10.07-21.18.36:632][  0]BlueprintLog: New page: Editor Load
+[2018.10.07-21.18.36:770][  0]LocalizationService: Localization service is disabled
+[2018.10.07-21.18.37:022][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.07-21.18.37:022][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.07-21.18.37:022][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.07-21.18.37:022][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.07-21.18.37:022][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.07-21.18.37:022][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.07-21.18.37:022][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.07-21.18.37:131][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealEngine Projects/Polygon/Content/' took 0.01s
+[2018.10.07-21.18.37:131][  0]SourceControl: Source control is disabled
+[2018.10.07-21.18.37:179][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 F:/Games/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.10.07-21.18.37:454][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.10.07-21.18.37:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.10.07-21.18.37:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.10.07-21.18.37:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.10.07-21.18.37:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.10.07-21.18.37:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.10.07-21.18.37:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.10.07-21.18.37:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.10.07-21.18.37:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.10.07-21.18.37:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.10.07-21.18.37:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.10.07-21.18.37:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.10.07-21.18.37:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.10.07-21.18.37:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.10.07-21.18.37:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.10.07-21.18.37:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.10.07-21.18.37:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.10.07-21.18.37:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.10.07-21.18.37:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Fire01.uasset"
+[2018.10.07-21.18.37:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.10.07-21.18.37:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.10.07-21.18.37:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.10.07-21.18.37:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Light01.uasset"
+[2018.10.07-21.18.37:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.10.07-21.18.37:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Light02.uasset"
+[2018.10.07-21.18.37:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.10.07-21.18.37:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.10.07-21.18.37:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.10.07-21.18.37:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.10.07-21.18.38:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.10.07-21.18.38:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.10.07-21.18.38:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.10.07-21.18.38:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.10.07-21.18.38:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.10.07-21.18.38:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Steam01.uasset"
+[2018.10.07-21.18.38:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.10.07-21.18.38:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.10.07-21.18.38:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.10.07-21.18.38:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.10.07-21.18.38:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.10.07-21.18.38:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.10.07-21.18.38:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.10.07-21.18.38:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.10.07-21.18.38:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.10.07-21.18.38:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.10.07-21.18.38:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.10.07-21.18.38:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.10.07-21.18.38:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.10.07-21.18.38:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.10.07-21.18.38:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.10.07-21.18.38:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.10.07-21.18.38:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.10.07-21.18.39:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.10.07-21.18.39:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.10.07-21.18.39:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.10.07-21.18.40:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.10.07-21.18.40:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.10.07-21.18.40:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Maps/StarterMap.umap"
+[2018.10.07-21.18.40:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.10.07-21.18.40:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.10.07-21.18.40:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.10.07-21.18.40:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.10.07-21.18.40:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.10.07-21.18.40:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.10.07-21.18.40:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.10.07-21.18.40:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.10.07-21.18.40:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.10.07-21.18.40:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.10.07-21.18.40:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.10.07-21.18.40:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.10.07-21.18.40:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.10.07-21.18.40:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.10.07-21.18.40:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.10.07-21.18.40:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.10.07-21.18.40:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.10.07-21.18.40:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.10.07-21.18.40:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.10.07-21.18.40:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.10.07-21.18.40:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.10.07-21.18.40:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.10.07-21.18.40:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.10.07-21.18.40:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.10.07-21.18.40:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.10.07-21.18.40:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.10.07-21.18.40:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.10.07-21.18.40:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.10.07-21.18.40:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.10.07-21.18.40:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.10.07-21.18.40:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.10.07-21.18.40:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.10.07-21.18.40:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.10.07-21.18.40:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.10.07-21.18.40:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.10.07-21.18.40:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.10.07-21.18.40:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.10.07-21.18.40:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.10.07-21.18.40:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.10.07-21.18.40:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.10.07-21.18.40:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.10.07-21.18.40:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.10.07-21.18.40:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.10.07-21.18.40:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.10.07-21.18.41:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.10.07-21.18.41:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.10.07-21.18.41:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.10.07-21.18.41:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.10.07-21.18.41:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.10.07-21.18.41:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.10.07-21.18.41:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.10.07-21.18.41:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.10.07-21.18.41:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.10.07-21.18.41:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.10.07-21.18.41:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.10.07-21.18.41:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.10.07-21.18.41:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.10.07-21.18.41:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.10.07-21.18.41:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.10.07-21.18.41:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.10.07-21.18.41:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.10.07-21.18.41:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.10.07-21.18.41:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.10.07-21.18.41:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.10.07-21.18.41:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.10.07-21.18.41:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_Door.uasset"
+[2018.10.07-21.18.41:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.10.07-21.18.41:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.10.07-21.18.41:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.10.07-21.18.41:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.10.07-21.18.41:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.10.07-21.18.41:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.10.07-21.18.41:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.10.07-21.18.41:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.10.07-21.18.41:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.10.07-21.18.41:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.10.07-21.18.41:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.10.07-21.18.41:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.10.07-21.18.41:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.10.07-21.18.41:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.10.07-21.18.41:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.10.07-21.18.41:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.10.07-21.18.41:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.10.07-21.18.41:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.10.07-21.18.41:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.10.07-21.18.41:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.10.07-21.18.41:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.10.07-21.18.41:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.10.07-21.18.41:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.10.07-21.18.41:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.10.07-21.18.41:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.10.07-21.18.41:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.10.07-21.18.41:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.10.07-21.18.41:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.10.07-21.18.41:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.10.07-21.18.41:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.10.07-21.18.41:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.10.07-21.18.41:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.10.07-21.18.42:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.10.07-21.18.42:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.10.07-21.18.42:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.10.07-21.18.42:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.10.07-21.18.42:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.10.07-21.18.42:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.10.07-21.18.42:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.10.07-21.18.42:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.10.07-21.18.42:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.10.07-21.18.42:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.10.07-21.18.42:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.10.07-21.18.42:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.10.07-21.18.42:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.10.07-21.18.42:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.10.07-21.18.42:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.10.07-21.18.42:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.10.07-21.18.42:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.10.07-21.18.42:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.10.07-21.18.42:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.10.07-21.18.42:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.10.07-21.18.43:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.10.07-21.18.43:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.10.07-21.18.43:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.10.07-21.18.43:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.10.07-21.18.43:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.10.07-21.18.43:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.10.07-21.18.43:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.10.07-21.18.43:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.10.07-21.18.43:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.10.07-21.18.43:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.10.07-21.18.43:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.10.07-21.18.43:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.10.07-21.18.43:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.10.07-21.18.43:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.10.07-21.18.44:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.10.07-21.18.44:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.10.07-21.18.44:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.10.07-21.18.44:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.10.07-21.18.44:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.10.07-21.18.44:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.10.07-21.18.44:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.10.07-21.18.44:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.10.07-21.18.44:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.10.07-21.18.45:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.10.07-21.18.45:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.10.07-21.18.45:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.10.07-21.18.45:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.10.07-21.18.45:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.10.07-21.18.45:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.10.07-21.18.45:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.10.07-21.18.45:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.10.07-21.18.45:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.10.07-21.18.45:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.10.07-21.18.45:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.10.07-21.18.45:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.10.07-21.18.45:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.10.07-21.18.45:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.10.07-21.18.45:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.10.07-21.18.45:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.10.07-21.18.46:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.10.07-21.18.46:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.10.07-21.18.46:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.10.07-21.18.46:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.10.07-21.18.46:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.10.07-21.18.46:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.10.07-21.18.46:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.10.07-21.18.46:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.10.07-21.18.46:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.10.07-21.18.47:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.10.07-21.18.47:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.10.07-21.18.47:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.10.07-21.18.47:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.10.07-21.18.47:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.10.07-21.18.47:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.10.07-21.18.47:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.10.07-21.18.47:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.10.07-21.18.48:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.10.07-21.18.48:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.10.07-21.18.48:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.10.07-21.18.48:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.10.07-21.18.48:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.10.07-21.18.48:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.10.07-21.18.48:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.10.07-21.18.48:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.10.07-21.18.48:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.10.07-21.18.48:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.10.07-21.18.48:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.10.07-21.18.49:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.10.07-21.18.49:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.10.07-21.18.49:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.10.07-21.18.49:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.10.07-21.18.49:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.10.07-21.18.49:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.10.07-21.18.49:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.10.07-21.18.49:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.10.07-21.18.49:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.10.07-21.18.49:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.10.07-21.18.49:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.10.07-21.18.49:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.10.07-21.18.49:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.10.07-21.18.49:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.10.07-21.18.49:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.10.07-21.18.49:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.10.07-21.18.49:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.10.07-21.18.49:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.10.07-21.18.49:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.10.07-21.18.49:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.10.07-21.18.49:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.10.07-21.18.50:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.10.07-21.18.50:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.10.07-21.18.50:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.10.07-21.18.51:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.10.07-21.18.51:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.10.07-21.18.51:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.10.07-21.18.51:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.10.07-21.18.51:767][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.10.07-21.18.51:802][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.10.07-21.18.51:860][  0]LogSavePackage: Moving '../../../../../UnrealEngine Projects/Polygon/Saved/Floor_400x4008D2246234751C048ECEA6384A3FB04BE.tmp' to '../../../../../UnrealEngine Projects/Polygon/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.10.07-21.18.51:867][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.10.07-21.18.51:872][  0]Cmd: MAP LOAD FILE="../../../../../UnrealEngine Projects/Polygon/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.07-21.18.51:872][  0]LightingResults: New page: Lighting Build
+[2018.10.07-21.18.51:874][  0]MapCheck: New page: Map Check
+[2018.10.07-21.18.51:874][  0]LightingResults: New page: Lighting Build
+[2018.10.07-21.18.52:350][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.07-21.18.52:362][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.07-21.18.52:384][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.07-21.18.52:443][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.169ms to complete.
+[2018.10.07-21.18.52:443][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.571
+[2018.10.07-21.18.52:531][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.07-21.18.52:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.07-21.18.52:544][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.07-21.18.52:549][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.07-21.18.52:553][  0]LogCollectionManager: Loaded 0 collections in 0.000766 seconds
+[2018.10.07-21.18.52:599][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealEngine Projects/Polygon/Saved/Collections/' took 0.01s
+[2018.10.07-21.18.52:599][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealEngine Projects/Polygon/Content/Developers/Thomas/Collections/' took 0.01s
+[2018.10.07-21.18.52:599][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealEngine Projects/Polygon/Content/Collections/' took 0.01s
+[2018.10.07-21.18.52:599][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.07-21.18.52:608][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2572 classes and 603 folders.
+[2018.10.07-21.18.52:612][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.07-21.18.52:657][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.07-21.18.52:660][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.10.07-21.18.52:673][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.07-21.18.52:675][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.07-21.18.52:680][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.07-21.18.52:727][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.07-21.18.52:775][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.07-21.18.52:875][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.07-21.18.52:875][  0]LogLoad: (Engine Initialization) Total time: 23.28 seconds
+[2018.10.07-21.18.52:875][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.07-21.18.52:885][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.07-21.18.52:989][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.07-21.18.53:054][  3]LogAssetRegistry: Asset discovery search completed in 19.2854 seconds
+[2018.10.07-21.18.53:056][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.07-21.18.53:056][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2018.10.07-21.18.57:864][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.21.00:461][431]LogTexture: Display: Building textures: T_PolygonBattleRoyale_01_A (AutoDXT, 2048X2048)
+[2018.10.07-21.21.00:461][431]LogMaterial: Display: Missing cached shader map for material Mat_PolygonBattleRoyale_01_A, compiling. 
+[2018.10.07-21.21.00:574][431]LogSkeletalMesh: Building Skeletal Mesh SK_Chr_SportyMale_02...
+[2018.10.07-21.21.00:575][431]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Polygon_BattleRoyale/Meshes/Characters/SK_Chr_SportyMale_02.SK_Chr_SportyMale_02
+[2018.10.07-21.21.00:579][431]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.10.07-21.21.00:579][431]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.10.07-21.21.00:579][431]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.10.07-21.21.00:579][431]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.07-21.21.00:628][431]LogSkeletalMesh: Building Skeletal Mesh SK_Chr_ToplessMale_01...
+[2018.10.07-21.21.00:631][431]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Polygon_BattleRoyale/Meshes/Characters/SK_Chr_ToplessMale_01.SK_Chr_ToplessMale_01
+[2018.10.07-21.21.02:800][601]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.07-21.21.03:184][644]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.07-21.21.04:134][749]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.07-21.21.08:867][295]Cmd: DELETE
+[2018.10.07-21.21.08:868][295]Cmd: ACTOR DELETE
+[2018.10.07-21.21.08:870][295]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.10.07-21.21.08:890][295]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.10.07-21.24.59:262][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.25.02:556][ 91]LogTexture: Display: Building textures: T_PolygonBattleRoyale_Vehicles_01 (AutoDXT, 2048X2048)
+[2018.10.07-21.25.02:556][ 91]LogMaterial: Display: Missing cached shader map for material Mat_PolygonBattleRoyale_Vehicle_01, compiling. 
+[2018.10.07-21.25.02:581][ 91]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Bike_01...
+[2018.10.07-21.25.02:586][ 91]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.07-21.25.02:586][ 91]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.07-21.25.02:586][ 91]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.07-21.25.02:586][ 91]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.07-21.25.02:586][ 91]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Polygon_BattleRoyale/Meshes/Vehicles/SK_Veh_Bike_01.SK_Veh_Bike_01
+[2018.10.07-21.25.04:815][313]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.07-21.25.05:397][363]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.07-21.25.09:060][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.25.09:459][761]LogTexture: Display: Building textures: T_PolygonBattleRoyale_Vehicles_01_Damaged (AutoDXT, 2048X2048)
+[2018.10.07-21.25.09:459][761]LogMaterial: Display: Missing cached shader map for material Mat_PolygonBattleRoyale_CarDestroyed_01, compiling. 
+[2018.10.07-21.25.09:491][761]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.07-21.25.09:491][761]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.07-21.25.09:491][761]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.07-21.25.09:491][761]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.07-21.25.09:491][761]LogStaticMesh: Building static mesh SM_Veh_Boat_Destroyed_01...
+[2018.10.07-21.25.09:498][761]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.07-21.25.09:543][761]LogStaticMesh: Built static mesh [0.05s] /Game/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Boat_Destroyed_01.SM_Veh_Boat_Destroyed_01
+[2018.10.07-21.25.09:580][761]LogActorFactory: Actor Factory created SM_Veh_Boat_Destroyed_01
+[2018.10.07-21.25.11:050][888]LogActorFactory: Actor Factory created SM_Veh_Boat_Destroyed_01
+[2018.10.07-21.25.12:576][ 60]Cmd: DELETE
+[2018.10.07-21.25.12:576][ 60]Cmd: ACTOR DELETE
+[2018.10.07-21.25.12:578][ 60]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.07-21.25.12:598][ 60]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.07-21.27.48:492][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.27.48:585][774]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Buggy_01...
+[2018.10.07-21.27.48:593][774]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Polygon_BattleRoyale/Meshes/Vehicles/SK_Veh_Buggy_01.SK_Veh_Buggy_01
+[2018.10.07-21.27.55:870][630]Cmd: DELETE
+[2018.10.07-21.27.55:870][630]Cmd: ACTOR DELETE
+[2018.10.07-21.27.55:872][630]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.10.07-21.27.55:890][630]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.10.07-21.27.58:722][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.28.02:307][383]LogStaticMesh: Building static mesh SM_Veh_Car_Destroyed_01...
+[2018.10.07-21.28.02:424][383]LogStaticMesh: Built static mesh [0.12s] /Game/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Car_Destroyed_01.SM_Veh_Car_Destroyed_01
+[2018.10.07-21.28.02:454][383]LogActorFactory: Actor Factory created SM_Veh_Car_Destroyed_01
+[2018.10.07-21.28.03:450][498]LogActorFactory: Actor Factory created SM_Veh_Car_Destroyed_01
+[2018.10.07-21.28.04:193][582]Cmd: DELETE
+[2018.10.07-21.28.04:193][582]Cmd: ACTOR DELETE
+[2018.10.07-21.28.04:195][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.07-21.28.04:214][582]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.07-21.28.06:127][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.28.06:238][815]LogStaticMesh: Building static mesh SM_Veh_Light_Car_Destroyed_01...
+[2018.10.07-21.28.06:394][815]LogStaticMesh: Built static mesh [0.16s] /Game/Polygon_BattleRoyale/Meshes/Vehicles/SM_Veh_Light_Car_Destroyed_01.SM_Veh_Light_Car_Destroyed_01
+[2018.10.07-21.28.06:427][815]LogActorFactory: Actor Factory created SM_Veh_Light_Car_Destroyed_01
+[2018.10.07-21.28.07:670][953]LogActorFactory: Actor Factory created SM_Veh_Light_Car_Destroyed_01
+[2018.10.07-21.28.07:936][980]Cmd: DELETE
+[2018.10.07-21.28.07:937][980]Cmd: ACTOR DELETE
+[2018.10.07-21.28.07:938][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.07-21.28.07:958][980]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.07-21.28.12:349][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.28.53:003][ 65]LogSavePackage: Moving '../../../../../UnrealEngine Projects/Polygon/Saved/FirstPersonExampleMap_Auto1ED38AE6B429E3BA79ABA44AB68841251.tmp' to '../../../../../UnrealEngine Projects/Polygon/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.10.07-21.28.53:017][ 65]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.149
+[2018.10.07-21.28.53:017][ 65]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2018.10.07-21.29.50:797][563]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Bike_01)
+[2018.10.07-21.30.30:806][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.30.43:570][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.30.53:168][  1]LogTexture: Display: Building textures: T_PolygonBattleRoyale_Fence_Alpha (AutoDXT, 512X512)
+[2018.10.07-21.30.53:168][  1]LogMaterial: Display: Missing cached shader map for material Mat_PolygonBattleRoyale_Fence_01, compiling. 
+[2018.10.07-21.30.53:213][  1]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.10.07-21.30.53:213][  1]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.10.07-21.30.53:213][  1]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.10.07-21.30.53:213][  1]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.07-21.30.55:312][230]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.07-21.30.55:342][233]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.07-21.30.59:732][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.30.59:840][748]LogMaterial: Display: Missing cached shader map for material Mat_PolygonBattleRoyale_Ocean, compiling. 
+[2018.10.07-21.30.59:914][748]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.10.07-21.30.59:914][748]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.10.07-21.30.59:914][748]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.07-21.30.59:914][748]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.07-21.31.01:662][927]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.07-21.31.01:681][929]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.07-21.31.04:701][234]Cmd: TRANSACTION UNDO
+[2018.10.07-21.31.04:701][234]LogEditorTransaction: Undo Create Actors
+[2018.10.07-21.31.05:374][294]Cmd: TRANSACTION UNDO
+[2018.10.07-21.31.05:374][294]LogEditorTransaction: Undo Create Actors
+[2018.10.07-21.31.06:181][382]Cmd: TRANSACTION UNDO
+[2018.10.07-21.31.06:181][382]LogEditorTransaction: Undo Create Actors
+[2018.10.07-21.31.14:175][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.31.27:852][805]LogSlate: Took 0.033103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.07-21.31.31:863][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.31.39:664][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.32.40:465][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.33.22:516][230]LogTexture: Display: Building textures: T_Wep_Skin_01 (AutoDXT, 512X512)
+[2018.10.07-21.33.22:516][230]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_Rifle_Assault_04...
+[2018.10.07-21.33.22:518][230]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Polygon_BattleRoyale/Meshes/Weapons/SK_Wep_Rifle_Assault_04.SK_Wep_Rifle_Assault_04
+[2018.10.07-21.33.22:520][230]LogMaterial: Display: Missing cached shader map for material Mat_PolygonBattleRoyale_Weapons_01, compiling. 
+[2018.10.07-21.33.22:553][230]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.07-21.33.22:553][230]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.07-21.33.22:553][230]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.07-21.33.22:553][230]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.07-21.33.24:766][421]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.07-21.33.25:171][461]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.07-21.33.48:598][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.34.13:219][742]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Wep_Rifle_Assault_04)
+[2018.10.07-21.34.31:751][939]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Wep_Rifle_Assault_04)
+[2018.10.07-21.34.34:984][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2018.10.07-21.34.35:726][407]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Wep_Rifle_Assault_04)
+[2018.10.07-21.35.29:491][802]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.07-21.35.30:638][910]LogSavePackage: Moving '../../../../../UnrealEngine Projects/Polygon/Saved/FirstPersonExampleMap170B3B90492176A2ADFF6BBA3DCB83D9.tmp' to '../../../../../UnrealEngine Projects/Polygon/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.10.07-21.35.31:752][910]LogSavePackage: Moving '../../../../../UnrealEngine Projects/Polygon/Saved/FirstPersonExampleMap_BuiltDataD99588BD41114D9E675D23B56A5AA139.tmp' to '../../../../../UnrealEngine Projects/Polygon/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.07-21.37.49:670][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.44.38:726][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.07-21.44.49:685][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.44.50:130][393]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_Rifle_Assault_Mag_01...
+[2018.10.07-21.44.50:131][393]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Polygon_BattleRoyale/Meshes/Weapons/SK_Wep_Rifle_Assault_Mag_01.SK_Wep_Rifle_Assault_Mag_01
+[2018.10.07-21.44.53:569][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.44.55:532][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.07-21.45.02:236][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.45.11:693][825]Cmd: DELETE
+[2018.10.07-21.45.11:693][825]Cmd: ACTOR DELETE
+[2018.10.07-21.45.11:696][825]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.10.07-21.45.11:715][825]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.07-21.45.12:832][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.07-21.45.13:611][ 47]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Wep_Rifle_Assault_Mag_01_Skeleton)
+[2018.10.07-21.45.14:226][115]Cmd: DELETE
+[2018.10.07-21.45.14:226][115]Cmd: ACTOR DELETE
+[2018.10.07-21.45.14:229][115]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.10.07-21.45.14:248][115]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.07-21.45.18:857][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.07-21.45.19:418][705]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Wep_Rifle_Assault_Mag_01_Skeleton2)
+[2018.10.07-21.45.20:752][859]Cmd: DELETE
+[2018.10.07-21.45.20:752][859]Cmd: ACTOR DELETE
+[2018.10.07-21.45.20:754][859]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.10.07-21.45.20:773][859]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.07-21.45.30:602][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.45.33:635][347]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_SubMGun_Mag_01...
+[2018.10.07-21.45.33:635][347]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Polygon_BattleRoyale/Meshes/Weapons/SK_Wep_SubMGun_Mag_01.SK_Wep_SubMGun_Mag_01
+[2018.10.07-21.45.35:725][582]Cmd: DELETE
+[2018.10.07-21.45.35:725][582]Cmd: ACTOR DELETE
+[2018.10.07-21.45.35:727][582]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.10.07-21.45.35:746][582]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.07-21.45.43:156][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.45.43:284][463]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_Sniper_Lite_Mag_01...
+[2018.10.07-21.45.43:284][463]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Polygon_BattleRoyale/Meshes/Weapons/SK_Wep_Sniper_Lite_Mag_01.SK_Wep_Sniper_Lite_Mag_01
+[2018.10.07-21.45.45:335][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.07-21.45.49:386][174]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Wep_Sniper_Lite_Mag_01)
+[2018.10.07-21.45.50:404][290]Cmd: DELETE
+[2018.10.07-21.45.50:404][290]Cmd: ACTOR DELETE
+[2018.10.07-21.45.50:406][290]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.10.07-21.45.50:425][290]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.07-21.45.57:843][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.45.57:997][174]LogStaticMesh: Building static mesh SM_Wep_Bullet_Ammo_Pile_01...
+[2018.10.07-21.45.58:015][174]LogStaticMesh: Built static mesh [0.02s] /Game/Polygon_BattleRoyale/Meshes/Weapons/SM_Wep_Bullet_Ammo_Pile_01.SM_Wep_Bullet_Ammo_Pile_01
+[2018.10.07-21.45.58:176][191]LogActorFactory: Actor Factory created SM_Wep_Bullet_Ammo_Pile_01
+[2018.10.07-21.45.58:821][264]LogActorFactory: Actor Factory created SM_Wep_Bullet_Ammo_Pile_01
+[2018.10.07-21.45.59:720][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.07-21.46.03:768][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wep_Bullet_Ammo_Pile_01)
+[2018.10.07-21.46.04:595][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.07-21.46.06:634][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wep_Bullet_Ammo_Pile_01)
+[2018.10.07-21.46.08:036][334]Cmd: DELETE
+[2018.10.07-21.46.08:036][334]Cmd: ACTOR DELETE
+[2018.10.07-21.46.08:037][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.07-21.46.08:057][334]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.07-21.46.14:143][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.46.14:239][ 55]LogStaticMesh: Building static mesh SM_Wep_RiotShield_01...
+[2018.10.07-21.46.14:253][ 55]LogStaticMesh: Built static mesh [0.01s] /Game/Polygon_BattleRoyale/Meshes/Weapons/SM_Wep_RiotShield_01.SM_Wep_RiotShield_01
+[2018.10.07-21.46.14:349][ 64]LogActorFactory: Actor Factory created SM_Wep_RiotShield_01
+[2018.10.07-21.46.15:388][176]LogActorFactory: Actor Factory created SM_Wep_RiotShield_01
+[2018.10.07-21.46.16:709][329]Cmd: DELETE
+[2018.10.07-21.46.16:709][329]Cmd: ACTOR DELETE
+[2018.10.07-21.46.16:711][329]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.07-21.46.16:730][329]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.07-21.47.24:887][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.07-21.47.25:869][515]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Wep_Rifle_Assault_04)
+[2018.10.07-21.47.36:828][806]Cmd: DELETE
+[2018.10.07-21.47.36:828][806]Cmd: ACTOR DELETE
+[2018.10.07-21.47.36:830][806]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.10.07-21.47.36:852][806]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.10.07-21.47.42:550][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.47.42:675][502]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_MachineGun_Mag_01...
+[2018.10.07-21.47.42:679][502]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Polygon_BattleRoyale/Meshes/Weapons/SK_Wep_MachineGun_Mag_01.SK_Wep_MachineGun_Mag_01
+[2018.10.07-21.47.49:311][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.07-21.47.50:794][413]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Wep_MachineGun_Mag_01)
+[2018.10.07-21.47.51:358][474]Cmd: DELETE
+[2018.10.07-21.47.51:358][474]Cmd: ACTOR DELETE
+[2018.10.07-21.47.51:360][474]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.10.07-21.47.51:379][474]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.07-21.47.54:453][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.47.54:978][897]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_MachineGun_01...
+[2018.10.07-21.47.54:982][897]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Polygon_BattleRoyale/Meshes/Weapons/SK_Wep_MachineGun_01.SK_Wep_MachineGun_01
+[2018.10.07-21.47.58:850][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.48.14:952][177]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2018.10.07-21.48.16:217][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-21.48.16:949][378]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Wep_MachineGun_01)
+[2018.10.07-21.48.20:208][735]Cmd: DELETE
+[2018.10.07-21.48.20:208][735]Cmd: ACTOR DELETE
+[2018.10.07-21.48.20:210][735]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.10.07-21.48.20:230][735]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.10.07-21.48.20:874][812]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Wep_MachineGun_Mag_01)
+[2018.10.07-21.48.21:117][835]Cmd: DELETE
+[2018.10.07-21.48.21:117][835]Cmd: ACTOR DELETE
+[2018.10.07-21.48.21:119][835]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.10.07-21.48.21:138][835]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.07-21.48.46:127][636]LogSavePackage: Moving '../../../../../UnrealEngine Projects/Polygon/Saved/FirstPersonExampleMap_Auto2C8BEE0FF4C77B7FCCBA438AFC89E943D.tmp' to '../../../../../UnrealEngine Projects/Polygon/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2018.10.07-21.48.46:131][636]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.150
+[2018.10.07-21.48.46:131][636]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.150
+[2018.10.07-21.49.07:032][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.07-21.51.26:830][359]LogSavePackage: Moving '../../../../../UnrealEngine Projects/Polygon/Saved/FirstPersonExampleMap99D3AAC24D28FFE5293F22A239F10042.tmp' to '../../../../../UnrealEngine Projects/Polygon/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.10.07-21.51.27:607][359]LogSavePackage: Moving '../../../../../UnrealEngine Projects/Polygon/Saved/FirstPersonExampleMap_BuiltData2DF357F2492A1B9FB0DAC690A632ABD4.tmp' to '../../../../../UnrealEngine Projects/Polygon/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.07-21.54.25:114][347]LogSavePackage: Moving '../../../../../UnrealEngine Projects/Polygon/Saved/FirstPersonExampleMapDFAD866D40F370F93561C897C28F988D.tmp' to '../../../../../UnrealEngine Projects/Polygon/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.10.07-21.54.25:889][347]LogSavePackage: Moving '../../../../../UnrealEngine Projects/Polygon/Saved/FirstPersonExampleMap_BuiltData358AED5C41BAEACEC9C7C89DACBDA2D7.tmp' to '../../../../../UnrealEngine Projects/Polygon/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.07-21.54.33:240][758]LogSlate: Window 'Polygon - Unreal Editor' being destroyed
+[2018.10.07-21.54.33:411][759]Cmd: QUIT_EDITOR
+[2018.10.07-21.54.33:424][759]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.07-21.54.33:437][759]LogExit: Preparing to exit.
+[2018.10.07-21.54.33:800][759]LogExit: Editor shut down
+[2018.10.07-21.54.33:800][759]LogExit: Transaction tracking system shut down
+[2018.10.07-21.54.34:509][759]LogExit: Object subsystem successfully closed.
+[2018.10.07-21.54.34:526][759]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.07-21.54.34:529][759]LogD3D11RHI: Shutdown
+[2018.10.07-21.54.34:529][759]LogD3D11RHI: CleanupD3DDevice
+[2018.10.07-21.54.34:530][759]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.07-21.54.34:540][759]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2018.10.07-21.54.34:540][759]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.10.07-21.54.34:540][759]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.10.07-21.54.34:540][759]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.10.07-21.54.34:557][759]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.10.07-21.54.34:557][759]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.10.07-21.54.34:557][759]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.07-21.54.34:558][759]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.07-21.54.34:559][759]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.07-21.54.34:559][759]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.07-21.54.34:559][759]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.07-21.54.34:559][759]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.07-21.54.34:559][759]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.07-21.54.34:559][759]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.07-21.54.35:005][759]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.07-21.54.35:005][759]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.07-21.54.35:005][759]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.07-21.54.35:005][759]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.07-21.54.35:005][759]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.07-21.54.35:005][759]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.07-21.54.35:005][759]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.07-21.54.35:005][759]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.07-21.54.35:005][759]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.07-21.54.35:006][759]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.07-21.54.35:006][759]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.07-21.54.35:006][759]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.07-21.54.35:006][759]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.07-21.54.35:006][759]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.07-21.54.35:006][759]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.07-21.54.35:006][759]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.07-21.54.35:006][759]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.07-21.54.35:006][759]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.07-21.54.35:006][759]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.07-21.54.35:006][759]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.07-21.54.35:006][759]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.07-21.54.35:006][759]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.07-21.54.35:061][759]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.07-21.54.35:062][759]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.07-21.54.35:062][759]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.07-21.54.35:062][759]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.07-21.54.35:062][759]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.07-21.54.35:062][759]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.07-21.54.35:062][759]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.07-21.54.35:062][759]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.07-21.54.35:062][759]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.07-21.54.35:062][759]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.07-21.54.35:062][759]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.07-21.54.35:159][759]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.07-21.54.35:162][759]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.07-21.54.35:162][759]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.07-21.54.35:162][759]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.07-21.54.35:162][759]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.07-21.54.35:162][759]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.07-21.54.35:162][759]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.07-21.54.35:162][759]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.07-21.54.35:162][759]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.07-21.54.35:162][759]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.07-21.54.35:162][759]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.07-21.54.35:162][759]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.07-21.54.35:162][759]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.07-21.54.35:163][759]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.07-21.54.35:264][759]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.07-21.54.35:364][759]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.07-21.54.35:364][759]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.07-21.54.35:364][759]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.07-21.54.35:364][759]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.07-21.54.35:364][759]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.07-21.54.35:364][759]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.07-21.54.35:364][759]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.07-21.54.35:365][759]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.07-21.54.35:365][759]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.07-21.54.35:365][759]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.07-21.54.35:365][759]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.07-21.54.35:365][759]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.07-21.54.35:366][759]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.07-21.54.35:366][759]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.07-21.54.35:366][759]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.07-21.54.35:366][759]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.07-21.54.35:366][759]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.07-21.54.35:366][759]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.07-21.54.35:368][759]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.07-21.54.35:374][759]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.07-21.54.35:375][759]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.07-21.54.35:375][759]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.07-21.54.35:375][759]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.07-21.54.35:376][759]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.07-21.54.35:385][759]LogDerivedDataCache: Shutdown
+[2018.10.07-21.54.35:385][759]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.07-21.54.35:385][759]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.07-21.54.35:385][759]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.07-21.54.35:385][759]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.07-21.54.35:385][759]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.07-21.54.35:385][759]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.07-21.54.35:385][759]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.07-21.54.35:385][759]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.07-21.54.35:385][759]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.07-21.54.35:385][759]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.07-21.54.35:385][759]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.07-21.54.35:386][759]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.07-21.54.35:386][759]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.07-21.54.35:386][759]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.07-21.54.35:386][759]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.07-21.54.35:386][759]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.07-21.54.35:386][759]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.07-21.54.35:386][759]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.07-21.54.35:386][759]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.07-21.54.35:386][759]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.07-21.54.35:386][759]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.07-21.54.35:386][759]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.07-21.54.35:386][759]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.07-21.54.35:387][759]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.07-21.54.35:387][759]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.07-21.54.35:388][759]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.07-21.54.35:388][759]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.07-21.54.35:397][759]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.07-21.54.35:398][759]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.07-21.54.35:398][759]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.07-21.54.35:401][759]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.07-21.54.35:401][759]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.07-21.54.35:401][759]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E86EA00-4528-80DE-0548-848BA2062AE3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=9cef3ad04bca521151d3a98019640a7a%7C5a29870d059d4661934a62d00f637e9f%7C7cda8fbb-f0ab-4d8e-9fb8-620e5eea97b4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.07-21.54.35:431][759]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.07-21.54.35:432][759]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.07-21.54.35:432][759]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.07-21.54.35:438][759]LogExit: Exiting.
+[2018.10.07-21.54.35:470][759]Log file closed, 10/07/18 16:54:35
